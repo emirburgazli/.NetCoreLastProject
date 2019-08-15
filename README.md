@@ -1,0 +1,2 @@
+# .NetCoreLastProject
+.NetCoreLastProject
